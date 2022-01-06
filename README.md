@@ -1,12 +1,13 @@
 
 ### Olá! Eu sou Jelson Matheus 🖐️
 
+Graduando em Ciência da Computação, desenvolvedor web, atualmente estudando Python,
+Django e Django Rest Framework.
+
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JelsonMatheus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JelsonMatheus&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
-### Tecnológicas que uso no meu dia
 
 <div style="display: inline_block"><br>
     <img align="center" height="30" width="40" alt="jelson-js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
