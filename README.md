@@ -15,7 +15,7 @@ Django e Django Rest Framework.
     <img align="center" height="30" width="40" alt="jelson-css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
     <img align="center" height="30" width="40" alt="jelson-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
     <img align="center" height="30" width="40" alt="jelson-python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-    <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
+    <img align="center" width="50" src="https://icongr.am/devicon/django-original.svg?size=141&color=currentColor"/>
     <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 </div>
 
