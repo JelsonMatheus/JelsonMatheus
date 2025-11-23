@@ -1,8 +1,9 @@
 
 ### Olá! Eu sou Jelson Matheus 🖐️
 
-Graduando em Ciência da Computação, desenvolvedor web, atualmente estudando Python,
-Django e Django Rest Framework.
+Formado em Ciência da Computação pela UESPI, atuo como Engenheiro de Dados na Proffer, onde trabalho com pipelines de dados, automação de processos e infraestrutura em nuvem usando Python, Pandas, Apache Airflow, PostgreSQL, AWS e Docker.
+
+Tenho também experiência anterior como estagiário em Engenharia de Dados na Proffer e como estagiário de desenvolvimento web na Infatec, desenvolvendo aplicações com PHP, JavaScript, HTML, CSS e APIs com Django/Django REST Framework.
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JelsonMatheus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
